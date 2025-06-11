@@ -44,6 +44,10 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 
 #### 🎨 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 #### 💾 Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
