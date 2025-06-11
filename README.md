@@ -62,3 +62,19 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tarikkassem&show_icons=true&theme=github_dark" alt="Tarik GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikkassem&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikkassem&layout=compact&theme=github_dark" alt="Top Langs"/>
+</p>
+
+---
+
