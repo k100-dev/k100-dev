@@ -1,5 +1,5 @@
-## Opa! Bem vindo ao meu Portifólio!
+## Opa! Bem vindo ao meu Portfólio!
 
-!https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
