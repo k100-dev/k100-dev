@@ -45,7 +45,7 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 #### 🎨 Design & Prototipagem
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
@@ -68,17 +68,18 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarikkassem&show_icons=true&theme=github_dark" alt="Tarik GitHub Stats"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarikkassem&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikkassem&layout=compact&theme=github_dark" alt="Top Langs"/>
-</p>
+<a href="https://github.com/k100-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k100-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k100-dev&layout=compact&langs_count=8&theme=github_dark"/>
+</a>
 
+<a href="https://github.com/k100-dev">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k100-dev&theme=github-dark&hide_border=true"/>
+</a>
+
+</div>
 ---
 
