@@ -1,5 +1,9 @@
-## Opa! Bem vindo ao meu Portfólio!
+<h1 align="center">Olá! 👋 Me chamo Tarik Kassem</h1>
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+<p align="center">
+  🚀 Estudante de Engenharia de Software na UNIFIL <br>
+  💻 Apaixonado por tecnologia, front-end e desenvolvimento de software <br>
+  🌱 Em constante aprendizado e evolução
+</p>
 
-
+---
