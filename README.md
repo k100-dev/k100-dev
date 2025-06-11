@@ -69,7 +69,7 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 ### 📈 GitHub Stats
 
 
-<div align="center">
+<div align="left">
 
 <a href="https://github.com/k100-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k100-dev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -86,9 +86,9 @@ Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia
 
 ### 🤝 Conecte-se comigo
 
-<p align="center">
+<p align="left">
   <a href="mailto:tarikkassemalmeida@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/tarikkassem"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
-"""
+
 
