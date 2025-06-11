@@ -23,3 +23,14 @@ Além disso, sou fluente em inglês, o que me permite colaborar com projetos e c
 Tenho experiências anteriores em ambientes corporativos, atuando com tecnologia e suporte, o que me ajudou a desenvolver habilidades interpessoais, comunicação e liderança.
 
 ---
+
+### 📚 Linha de Estudo & Interesses
+
+- 🎯 Front-end moderno (HTML, CSS, JavaScript, React, TypeScript)
+- 🌐 Web Design Responsivo e Experiência do Usuário
+- 🧰 Boas práticas com Git e GitHub
+- 🗄️ Banco de Dados Relacional e Não-Relacional
+- 📊 Curiosidade por dados, organização e produtividade
+
+---
+
